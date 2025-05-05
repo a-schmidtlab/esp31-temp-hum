@@ -62,4 +62,5 @@ The ESP32 will automatically obtain an IP address via DHCP when connected to you
 
 ## License
 
+(C) 2025 by Axel Schmidt
 This project is open source and available under the MIT License. 
